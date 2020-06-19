@@ -8,6 +8,7 @@ def f(x):
     return x**(3) - 0.165*(x**(2)) + 3.993*(10**(-4))
 
 
+
 def bissection(xLower,xUpper,iteration):
     i = 0 #Accumulator
     xRootNew = 0
